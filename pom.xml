@@ -1,0 +1,5 @@
+<dependency>
+  <groupId>com.form.jigb</groupId>
+  <artifactId>formsimple</artifactId>
+  <version>v1.1.0</version>
+</dependency>
